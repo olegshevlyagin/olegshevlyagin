@@ -1,4 +1,4 @@
-# olegshevliagin
+# oleg shevlyagin
 
 Currently:
 - 🧮 **[Corca](https://corca.io)** — online math editor
